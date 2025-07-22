@@ -5,11 +5,11 @@ import DiscoverSection from './DiscoverSection'
 function page() {
   return (
     <div>
-      <DiscoverSection/>
-      <HeroSection/>
-      <FooterSection/>
+      <HeroSection />
+      <DiscoverSection />
+      <FooterSection />
     </div>
-  )
+  );
 }
 
 export default page
